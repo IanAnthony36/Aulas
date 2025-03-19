@@ -1,0 +1,5 @@
+print('oi, estou aprendendo Python!')
+print("Estou feliz", "no SENAI")
+print("Quero aprender muito mais")
+print("5+5")
+print("5"+"5")
